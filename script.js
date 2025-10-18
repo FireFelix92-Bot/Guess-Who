@@ -134,6 +134,7 @@ const CHARACTERS = [
   { name: "Zombie Shark", img: "img/Martello Zombie.png" },
   { name: "Blob Fantasmino", img: "img/Blob Fantasmino.png" },
   { name: "Felixini Pagliaccini", img: "img/Felixini Pagliaccini.png" },
+  { name: "Reaper Bicicleteira", img: "img/Reaper Bicicleteira.png" },
   // aggiungi/rimuovi qui (nome e percorso immagine)
 ];
 
